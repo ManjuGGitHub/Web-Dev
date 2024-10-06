@@ -1,0 +1,26 @@
+/* Write your code here: */
+h2{
+    color: red;
+}
+
+div > p{
+    color: blue;
+}
+
+ul > li{
+    color: purple;
+}
+
+li.done{
+    color: brown;
+}
+
+p.done{
+    color: blueviolet;
+}
+p{
+    color: yellow;
+}
+.done.dust{
+    color: green;
+}

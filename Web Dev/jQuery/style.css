@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(242, 242, 247);
+}
+
+.bigHeader{
+    background-color: aqua;
+    font-size: 100px;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.header{
+    display: block;
+    text-align: center;
+    background-image: url(dog-img.jpg)
+}
+.margin{
+    margin: 50px;
+    padding: 25px;
+    color: blueviolet;
+    text-decoration: none;
+}
+
+.buttonmargin{
+        border-radius: 5%;
+        background-color: #04AA6D; /* Green */
+        border: 5px solid black;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        
+}
+
+a:hover {
+    text-decoration:underline;
+ }

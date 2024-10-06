@@ -1,0 +1,11 @@
+h1{
+    color: rgb(128, 0, 0);
+    text-align: center;
+    background-color: blueviolet;
+}
+
+*{
+    color: brown;
+    background-color: gray;
+    text-align: center;
+}
